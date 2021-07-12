@@ -1,1 +1,1 @@
-# Lista_zakupow
+# Lista_zakupów
